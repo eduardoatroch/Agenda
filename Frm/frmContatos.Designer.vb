@@ -379,9 +379,9 @@ Partial Class frmContatos
         Me.chkQualquerParteDoNome.Location = New System.Drawing.Point(26, 85)
         Me.chkQualquerParteDoNome.Margin = New System.Windows.Forms.Padding(2)
         Me.chkQualquerParteDoNome.Name = "chkQualquerParteDoNome"
-        Me.chkQualquerParteDoNome.Size = New System.Drawing.Size(140, 17)
+        Me.chkQualquerParteDoNome.Size = New System.Drawing.Size(205, 17)
         Me.chkQualquerParteDoNome.TabIndex = 9
-        Me.chkQualquerParteDoNome.Text = "Qualquer parte do nome"
+        Me.chkQualquerParteDoNome.Text = "Pesquisar por qualquer parte do nome"
         Me.chkQualquerParteDoNome.UseVisualStyleBackColor = True
         '
         'lstvContatosLidosXML
